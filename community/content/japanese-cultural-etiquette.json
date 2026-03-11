@@ -66,10 +66,6 @@
     "note": "御本尊周辺は撮影不可が多い。"
   },
   {
-    "title": "Bowing",
-    "content": "Bowing is a traditional Japanese greeting. The deeper the bow, the more respect shown."
-  },
-  {
     "situation": "レジ会計 5",
     "do": "トレーで受け渡す",
     "dont": "現金を投げるように渡す",
@@ -82,7 +78,7 @@
     "note": "謙遜表現が好まれる。"
   },
   {
-    "situatieon": "電車内 6",
+    "situation": "電車内 6",
     "do": "車内では静かに過ごす",
     "dont": "通話を続ける",
     "note": "混雑時は特に配慮する。"
